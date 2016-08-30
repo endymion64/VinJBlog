@@ -1,4 +1,3 @@
-= Test
+= Welcome
 
-== This is a test
-A test to check how things work out.
+Welcome to my blog!! Hopefully there will be some interesting content soon! ;)
