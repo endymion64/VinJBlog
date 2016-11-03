@@ -1084,7 +1084,8 @@ body:not(.post-template) .post-title {
    text column to break out. */
 .post-content img {
     display: block;
-    max-width: 126%;
+    /*max-width: 126%;*/
+    max-width: 100%;
     height: auto;
     padding: 0.6em 0;
     /* Centers an image by (1) pushing its left edge to the
@@ -1201,6 +1202,11 @@ body:not(.post-template) .post-title {
     padding-bottom: 10px;
     font-style: italic;
 }
+
+.post-content p {
+    text-align: justify;
+}
+
 /* ==========================================================================
    6. Author profile
    ========================================================================== */
