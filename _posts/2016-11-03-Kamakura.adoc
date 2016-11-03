@@ -1,0 +1,4 @@
+= Kamakura 
+++++
+<iframe src="https://www.google.com/maps/d/embed?mid=1ich19Hjatxr5G3xoG0cAjqbUIn0" width="640" height="480"></iframe>
+++++
