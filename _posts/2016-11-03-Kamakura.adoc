@@ -5,7 +5,7 @@ What can you expect to find in Kamakura? Well, it's very simply: religious spots
 
 We made a nice roundtrip around the city and witnessed a rather green village without skyscapers, which really contrasts with the Tokyo Metropolitan Area. I felt a bit relieved actually to be out of the big city for a bit. Since it is way more interesting to see for yourself where I have been, I decided to make this post more interactive by adding a <<Map,*map*>> of my roundtrip. We had a nice walk of around 10km, starting from Kamakura station and ending at Kita-Kamakura station. Of course, I also took some pictures. I'm not going to waste a lot of words in this post and let the map and pictures speak for themselves: https://goo.gl/photos/G2qetVywN4awRXzq5[*ALBUM*]
 
-[[Map]]
+[[map,Map]]
 ++++
 <style>
     .google-maps {
