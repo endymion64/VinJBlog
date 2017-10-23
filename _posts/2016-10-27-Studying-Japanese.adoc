@@ -33,6 +33,6 @@ video::xUVLuv2IGNQ[youtube,width=560,height=315,lang=jp]
 
 What really makes my life at school complete are the two typical elements each school has in anime: the typical Japanese school bell jingle and a roof top where you can walk around, sit on a bench and have an occasional lunch break! The school bell is a very soothing sound, which is totally different from the harsh ring in the elementary and secondary school I had. The rooftop has a small view on the buildings around the school. It is really calm over there! The perfect place to come to rest during the brain melting Japanese studies!
 
-audio::audio/schoolbell.mp3[]
+audio::../audio/schoolbell.mp3[]
 
 In short: school is intensive but really a great experience. I still suck a bit at speaking spontaneously though, especially when I need to conjugate verbs. However, Sašo found Japanese conversation classes near our station in Kawasaki! Last week, we joined these classes and meet twice a week to improve our natural speech. We were heartily welcomed from the beginning and were immediately invited to join the Tuesday's group for a trip to Ikuta Park to have a picnic and visit the planetarium. This way we'll try to truly master the Japanese language!
