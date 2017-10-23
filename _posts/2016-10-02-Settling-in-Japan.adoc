@@ -12,19 +12,19 @@ With your passport and COE in your hands, you're finally ready to hop to the Jap
 
 [[img-visa]]
 .Look at this prety sticker, it has flowers and stuff written on it!
-image::http://youri.discovers.asia/images/settling/visa.jpg[visa] 
+image::settling/visa.jpg[visa] 
 
 For my flight, I chose to leave from Schiphol, the international airport of The Netherlands. During the period I wanted to book my flight, there were regular strikes and delays at the Belgian airport due to the recent terrorist attacks. Therefore, I wanted to choose an airport with more stability. Gautier, the lone French Vulcanus trainee who had an intership in Amsterdam back then, was also planning to leave from Schiphol. Therefore we booked tickets for the same flight and reserved seats next to each other. The day of the flight was one full of nerves and excitement. I checked my luggage 3 times, just to be sure I would take everything I'd need with me! I arrived at the airport 3 hours before departure, so I could go tranquilly to my gate without any issues. The plane I was going to board was already waiting for me.
 
 [[img-plane]]
 .This plane brought me to Qatar
-image::http://youri.discovers.asia/images/settling/plane.jpg[Qatar]
+image::settling/plane.jpg[Qatar]
 
 First, Gautier and I flew to Qatar, where we had to transfer for our flight to Narita International Airport. In Qatar, we had to sprint since we only had an hour of transfer time and we needed to go through security checks a second time and queuing took a while. We got on time in our plane, so the real trip to Japan could start! I slept a couple of hours in this plane, so the 10-hour trip didn't feel this long luckily! When I woke up we were already flying over China. Two hours later, we were flying over Japanese soil. With a setting sun at the horizon, I was welcomed by Mount Fuji during the landing. This was for me a sign of the start of an incredible experience!
 
 [[img-fuji]]
 .This is how I was welcomed into Japan
-image::http://youri.discovers.asia/images/settling/fuji.jpg[Fuji]
+image::settling/fuji.jpg[Fuji]
 
 == Congratulations, you made it to Japan! Now what?
 === Get a Residence Card
@@ -32,7 +32,7 @@ After being landed in Narita Airport, I had to queue for passport control. Durin
 
 [[img-residence]]
 .Ooooh shinyyy
-image::http://youri.discovers.asia/images/settling/residence.jpg[residence]
+image::settling/residence.jpg[residence]
 
 === Register your address and apply for National Health Insurance
 The first night, I stayed in a hotel together with the other Vulcanus trainees. We got our orientation day the next morning. The Japanese weather was unforgiving: a frying 34°C and a humidity level of imeasurable values. Drenched in sweat I arrived at the Europa house, where the orientation took place. After the presentation, I had to wait for a representative of Fujitsu to pick up the students that will have their internship at Fujitsu Laboratories in Kawasaki.  In total we are 3: Sašo, from Slovenia; Ole from Germany and then there's that Belgian guy. 
@@ -41,7 +41,7 @@ The representative brought us, after a great lunch in the most Japanese place yo
 
 [[img-nhi]]
 .My health insurance card, but some privacy bug removed my address ;)
-image::http://youri.discovers.asia/images/settling/nhi.jpg[NHI]
+image::settling/nhi.jpg[NHI]
 
 === Get a bank account
 The next day, Friday the 2nd of September, the 3 Fujitsu guys went to Shibuya to get a bank account. We chose to go to Shinsei Bank, since they are one of the only banks that offer English services (as already mentioned, you easily get confronted with language barriers when it comes to particular domestic services). We went to the Shibuya office, but got kicked out. We were advised to go to the Head office near Tokyo Station, half an hour from Shibuya, because this office wasn't familiar with dealing with a lot of foreigners at the same time. This was because there were already 2 Vulcanus trainees inside. The Head Office could handle us better...
@@ -52,11 +52,11 @@ So we planned to go to the other office but had to do it the next week since we 
 
 [[img-bankcard]]
 .My cash card which allows me to withdraw money from my Japanese account, but those privacy bugs removed my account number ;) 
-image::http://youri.discovers.asia/images/settling/bankcard.jpg[Shinsei]
+image::settling/bankcard.jpg[Shinsei]
 
 [[img-reception]]
 .This is where we held the reception, neat huh?
-image::http://youri.discovers.asia/images/settling/reception.jpg[Reception]
+image::settling/reception.jpg[Reception]
 
 === Get a SIM-card
 In the first weekend, the 3 Fujitsu guys went to Shibuya again and entered a BIC CAMERA shop to get a Japanese SIM card. There are a lot of possibilities of SIM cards and plans to acquire depending on the duration of your stay and the amount of mobile data you want to consume. You can also choose whether you want a data-only SIM or would like to be able to text and make phone calls. The choice is up to you! A nice summary of the available SIM cards can be found on https://tokyocheapo.com/business/internet/prepaid-cheap-japan-sim-card-options/[Tokyo Cheapo] for short and long stays.
@@ -65,14 +65,14 @@ Since I stay a whole year in Japan, I chose a BIC SIM, with 3GB data per month i
 
 [[img-bic]]
 .Sašo showing which SIMs we considered to choose
-image::http://youri.discovers.asia/images/settling/bic.jpg[]
+image::settling/bic.jpg[]
 
 === Commuter pass 
 From September until December, I will travel 5 days a week to the Naganuma School to learn Japanese. In order to ease my commuting with public transport, I bought a PASMO card. It's an IC card that allows you to charge money on it which you can use to travel around using public transport including trains, metro and buses. It is a must-have if you want to travel using public transport in a comfortable way. Otherwise, you'll have to buy tickets at a counter everytime and this can become complicated if you need to transfer onto lines that are from another company. IC cards work on all the lines. There exist several types of cards and normally it doesn't really matter which one you buy, *UNLESS* you want to charge a commuter pass on it. A commuter pass is a fee you pay to travel between 2 stations on a more regular basis. Therefore, it does matter which IC card you buy, because you are obliged to travel through at least one station of the company from which you bought the IC card. Therefore I had to get a PASMO card specifically, because I can travel to the school using the Tokyu Toyoko Line, which is owned by the Tokyu Coorporation. However, in the airport I bought another IC card, Suica. This card is offered by JR, a train company. Since I do not need to travel using a JR line, I was obliged to get the other IC card. Luckily, I can get a refund on my Suica if I return it to one of the JR stations, but for now I decided to keep it since it is a pretty card with a cute penguin on it. The commuter pass is valid for a month or 3 months. For my own safety I bought a 1-month commuter passes in case I might lose my PASMO card.
 
 [[img-pasmo]]
 .The very convenient PASMO card loaded with my commuter pass
-image::http://youri.discovers.asia/images/settling/pasmo.jpg[PASMO]
+image::settling/pasmo.jpg[PASMO]
 
 === Get Internet in your room, so that you can write long blog posts
 Leopalace21 provides its own Internet sevice to their appartments, which is called LEONET.
